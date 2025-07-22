@@ -44,5 +44,5 @@ Berdasarkan temuan di atas, berikut adalah rekomendasi utama yang diusulkan:
 
 * ` data/`: Berisi data mentah yang digunakan dalam analisis.
 * ` docs/`: Berisi file `guide.md` (dokumentasi teknis) dan `insight.md` (laporan bisnis).
-* ` dashboard/`: Berisi file Excel utama `.xlsx` yang memuat dashboard final.
+* ` dashboard/`: Berisi screenshot `.png` yang memuat dashboard final.
 * ` result/`: Berisi hasil file excel yang telah dilakukan cleaning dan analisis.
