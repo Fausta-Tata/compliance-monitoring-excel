@@ -1,0 +1,4 @@
+This is not a valid order data file.
+Log Start: 2025-07-10 13:00
+Warning: No structured tabular data found.
+Note: This is only a decoy for testing compliance checks.
